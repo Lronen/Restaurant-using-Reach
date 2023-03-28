@@ -1,0 +1,198 @@
+  .lunchMain {
+    display: flex;
+    flex-direction: column;
+    height: 1375vh;
+    justify-content: center;
+    align-items: center;
+    background: url('../images/test2.jpg') no-repeat center fixed;
+    background-size: cover;
+  }
+
+  .gl {
+    color: white;
+  }
+
+  /* Lunch Images Begins */
+  
+  .limg0 {
+    background: url('../images/b_Special.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg1 {
+    background: url('../images/cheeseSticks.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg2 {
+    background: url('../images/deepFriedPickles.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg3 {
+    background: url('../images/springRolls.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg4 {
+    background: url('../images/quesadilla.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg6 {
+    background: url('../images/nachos.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg7 {
+    background: url('../images/garlicBread.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg8 {
+    background: url('../images/honeysWings.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg9 {
+    background: url('../images/chipDip.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg10 {
+    background: url('../images/largeSoup.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg11 {
+    background: url('../images/soupAndSalad.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg12 {
+    background: url('../images/largeCaesar.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg13 {
+    background: url('../images/largeGreek.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg14 {
+    background: url('../images/largeGarden.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg15 {
+    background: url('../images/bagelHamSwiss.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg16 {
+    background: url('../images/HoneysBagel.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg18 {
+    background: url('../images/grilledChickenBagel.png') no-repeat center;
+    background-size: cover;
+  }
+  .limg19 {
+    background: url('../images/bagelVeggie.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg20 {
+    background: url('../images/garbageBagel.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg21 {
+    background: url('../images/honeysCheddar.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg22 {
+    background: url('../images/cornBeef.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg23 {
+    background: url('../images/reuben.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg24 {
+    background: url('../images/beefOnBun.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg26 {
+    background: url('../images/combo1.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg27 {
+    background: url('../images/combo2.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg28 {
+    background: url('../images/burgerClassic.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg30 {
+    background: url('../images/bltBurger.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg31 {
+    background: url('../images/BBQBurger.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg32 {
+    background: url('../images/canadianBurger.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg37 {
+    background: url('../images/chickenBurger.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg38 {
+    background: url('../images/combo1.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg39 {
+    background: url('../images/combo2.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg49 {
+    background: url('../images/combo1.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg50 {
+    background: url('../images/combo2.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg51 {
+    background: url('../images/fullFish.jpg') no-repeat center;
+    background-size: cover;
+  }
+  .limg53 {
+    background: url('../images/tenders.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg54 {
+    background: url('../images/hotBurger.jpeg') no-repeat center;
+    background-size: cover;
+  }
+  .limg55 {
+    background: url('../images/fries.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg56 {
+    background: url('../images/sweetPotato.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg57 {
+    background: url('../images/onionRings.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg58 {
+    background: url('../images/gravy.jfif') no-repeat center;
+    background-size: cover;
+  }
+  .limg59 {
+    background: url('../images/poutine.jfif') no-repeat center;
+    background-size: cover;
+  }
+
+  /* Lunch Images Ends */
+
+  @media screen and (max-width: 960px) {
+    .lunchMain {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      height: 3410vh;
+      padding-top: 50px;
+    }
+  }
